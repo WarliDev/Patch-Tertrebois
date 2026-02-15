@@ -1,0 +1,56 @@
+{"version":"2","files":[
+
+
+
+	{"file":"Cow/cow2.m2","id":123288},
+	{"file":"Cow/cow200.skin","id":7354171},
+	{"file":"Cow/cow2_LOD01.skin","id":7354172},
+	{"file":"Cow/cow2_LOD02.skin","id":7354173},
+	{"file":"Cow/cow2_LOD03.skin","id":7354174},
+	{"file":"Cow/armorreflect4.blp","id":7354169},
+	{"file":"Cow/7150420_7354170.blp","id":7354170},
+	{"file":"Cow/7324239.blp","id":7324239},
+	{"file":"Cow/cow2_7324234.blp","id":123287},
+	{"file":"Cow/cow2_7324238.blp","id":123290},
+{"file":"Cow/cow20061-00.anim","id":7490505},
+{"file":"Cow/cow20062-00.anim","id":7490506},
+{"file":"Cow/cow20097-00.anim","id":7490507},
+{"file":"Cow/cow20096-00.anim","id":7490508},
+{"file":"Cow/cow20098-00.anim","id":7490509},
+{"file":"Cow/cow20100-00.anim","id":7490510},
+{"file":"Cow/cow20101-00.anim","id":7490511},
+
+{"file":"Horse/horse4.m2","id":1519794},
+{"file":"Horse/horse400.skin","id":7339104},
+{"file":"Horse/horse4_LOD01.skin","id":7339105},
+{"file":"Horse/horse4_LOD02.skin","id":7339106},
+{"file":"Horse/horse4_LOD03.skin","id":7339107},
+	{"file":"Horse/horse40061-00.anim","id":7339103},
+	{"file":"Horse/horse40062-00.anim","id":7349483},
+	{"file":"Horse/horse40097-00.anim","id":7349484},
+	{"file":"Horse/horse40096-00.anim","id":7349485},
+	{"file":"Horse/horse40098-00.anim","id":7349486},
+	{"file":"Horse/horse40100-00.anim","id":7349487},
+	{"file":"Horse/horse40101-00.anim","id":7349488},
+
+
+{"file":"Sheep/sheep3.m2","id":1377131},
+{"file":"Sheep/sheep300.skin","id":7208685},
+{"file":"Sheep/sheep3_LOD01.skin","id":7208688},
+{"file":"Sheep/sheep3_LOD02.skin","id":7208691},
+{"file":"Sheep/sheep3_LOD03.skin","id":7208694},
+	{"file":"Sheep/sheep3white.blp","id":1377616},
+	{"file":"Sheep/sheep3black.blp","id":1377614},
+	{"file":"Sheep/sheep3robot.blp","id":1377615},
+{"file":"Sheep/sheep30061_00.anim","id":7208672},
+{"file":"Sheep/sheep30101_00.anim","id":7208673},
+{"file":"Sheep/sheep30100_00.anim","id":7208675},
+{"file":"Sheep/sheep30098_00.anim","id":7208677},
+{"file":"Sheep/sheep30097_00.anim","id":7208679},
+{"file":"Sheep/sheep30096_00.anim","id":7208682},
+{"file":"Sheep/sheep30062_00.anim","id":7431862}
+
+
+
+
+]}
