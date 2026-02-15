@@ -1,0 +1,665 @@
+
+{
+	"name": "Patch Neutral",
+	"description": "By Warli",
+	"version": "1.0",
+	"files":
+
+	[
+		{
+			"fid": 3567231,
+    		"filename": "helm_plate_revendrethraid_d_01_hu_m.m2",
+    		"path": "helmets/human_male/helm_plate_revendrethraid_d_01_hu_m.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 3568192,
+			"filename": "helm_plate_revendrethraid_d_01_hu_m00.skin",
+			"path": "helmets/human_male/helm_plate_revendrethraid_d_01_hu_m00.skin",
+			"flags": 0
+		},
+
+		{
+			"fid": 3567232,
+    		"filename": "helm_plate_revendrethraid_d_01_hu_f.m2",
+    		"path": "helmets/human_female/helm_plate_revendrethraid_d_01_hu_f.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 3568195,
+			"filename": "helm_plate_revendrethraid_d_01_hu_f00.skin",
+			"path": "helmets/human_female/helm_plate_revendrethraid_d_01_hu_f00.skin",
+			"flags": 0
+		},
+
+		{
+			"fid": 3567221,
+    		"filename": "helm_plate_revendrethraid_d_01_be_m.m2",
+    		"path": "helmets/bloodelf_male/helm_plate_revendrethraid_d_01_be_m.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 3568177,
+			"filename": "helm_plate_revendrethraid_d_01_be_m00.skin",
+			"path": "helmets/bloodelf_male/helm_plate_revendrethraid_d_01_be_m00.skin",
+			"flags": 0
+		},
+
+		{
+			"fid": 3567222,
+    		"filename": "helm_plate_revendrethraid_d_01_be_f.m2",
+    		"path": "helmets/bloodelf_female/helm_plate_revendrethraid_d_01_be_f.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 3568179,
+			"filename": "helm_plate_revendrethraid_d_01_be_f00.skin",
+			"path": "helmets/bloodelf_female/helm_plate_revendrethraid_d_01_be_f00.skin",
+			"flags": 0
+		},
+
+		{
+			"fid": 2965511,
+    		"filename": "helm_plate_nazjatar_c_01_hum.m2",
+    		"path": "helmets/human_male/helm_plate_nazjatar_c_01_hum.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2966743,
+    		"filename": "helm_plate_nazjatar_c_01_hum00.skin",
+    		"path": "helmets/human_male/helm_plate_nazjatar_c_01_hum00.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2965512,
+    		"filename": "helm_plate_nazjatar_c_01_huf.m2",
+    		"path": "helmets/human_female/helm_plate_nazjatar_c_01_huf.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2966764,
+    		"filename": "helm_plate_nazjatar_c_01_huf00.skin",
+    		"path": "helmets/human_female/helm_plate_nazjatar_c_01_huf00.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2965499,
+    		"filename": "helm_plate_nazjatar_c_01_bem.m2",
+    		"path": "helmets/bloodelf_male/helm_plate_nazjatar_c_01_bem.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2966764,
+    		"filename": "helm_plate_nazjatar_c_01_bem00.skin",
+    		"path": "helmets/bloodelf_male/helm_plate_nazjatar_c_01_bem00.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2965500,
+    		"filename": "helm_plate_nazjatar_c_01_bef.m2",
+    		"path": "helmets/bloodelf_female/helm_plate_nazjatar_c_01_bef.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2966732,
+    		"filename": "helm_plate_nazjatar_c_01_bef00.skin",
+    		"path": "helmets/bloodelf_female/helm_plate_nazjatar_c_01_bef00.skin",
+    		"flags": 0
+  
+		},
+		
+		{
+			"fid": 2966725,
+    		"filename": "helm_plate_nazjatar_c_01_2_2966725.blp",
+    		"path": "tex/helmet/helm_plate_nazjatar_c_01_2_2966725.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2966724,
+    		"filename": "helm_plate_nazjatar_c_01_2966724.blp",
+    		"path": "tex/helmet/helm_plate_nazjatar_c_01_2966724.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2966726,
+    		"filename": "helm_plate_nazjatar_c_01_2966726.blp",
+    		"path": "tex/helmet/helm_plate_nazjatar_c_01_2966726.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2966727,
+    		"filename": "helm_plate_nazjatar_c_01_2966727.blp",
+    		"path": "tex/helmet/helm_plate_nazjatar_c_01_2966727.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 1321557,
+    		"filename": "firearm_1h_pistolshotrogue_d_01_blue.blp",
+    		"path": "tex/pistol/firearm_1h_pistolshotrogue_d_01_blue.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 1321558,
+    		"filename": "firearm_1h_pistolshotrogue_d_01_purple.blp",
+    		"path": "tex/pistol/firearm_1h_pistolshotrogue_d_01_purple.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 1321559,
+    		"filename": "firearm_1h_pistolshotrogue_d_01_red.blp",
+    		"path": "tex/pistol/firearm_1h_pistolshotrogue_d_01_red.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 1321560,
+    		"filename": "firearm_1h_pistolshotrogue_d_01_yellow.blp",
+    		"path": "tex/pistol/firearm_1h_pistolshotrogue_d_01_yellow.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2973318,
+    		"filename": "helm_cloth_nazjatar_c_01_hum00.skin",
+    		"path": "helmets/human_male/helm_cloth_nazjatar_c_01_hum00.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2973089,
+    		"filename": "helm_cloth_nazjatar_c_01_hum.m2",
+    		"path": "helmets/human_male/helm_cloth_nazjatar_c_01_hum.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2973320,
+    		"filename": "helm_cloth_nazjatar_c_01_huf00.skin",
+    		"path": "helmets/human_female/helm_cloth_nazjatar_c_01_huf00.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2973090,
+    		"filename": "helm_cloth_nazjatar_c_01_huf.m2",
+    		"path": "helmets/human_female/helm_cloth_nazjatar_c_01_huf.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2973316,
+    		"filename": "helm_cloth_nazjatar_c_01_bem00.skin",
+    		"path": "helmets/bloodelf_male/helm_cloth_nazjatar_c_01_bem00.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2973077,
+    		"filename": "helm_cloth_nazjatar_c_01_bem.m2",
+    		"path": "helmets/bloodelf_male/helm_cloth_nazjatar_c_01_bem.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2973315,
+    		"filename": "helm_cloth_nazjatar_c_01_bef00.skin",
+    		"path": "helmets/bloodelf_female/helm_cloth_nazjatar_c_01_bef00.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2973078,
+    		"filename": "helm_cloth_nazjatar_c_01_bef.m2",
+    		"path": "helmets/bloodelf_female/helm_cloth_nazjatar_c_01_bef.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2973409,
+    		"filename": "helm_cloth_nazjatar_c_01_2973409.blp",
+    		"path": "tex/helmet/helm_cloth_nazjatar_c_01_2973409.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2973411,
+    		"filename": "helm_cloth_nazjatar_c_01_2973411.blp",
+    		"path": "tex/helmet/helm_cloth_nazjatar_c_01_2973411.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2973412,
+    		"filename": "helm_cloth_nazjatar_c_01_2973412.blp",
+    		"path": "tex/helmet/helm_cloth_nazjatar_c_01_2973412.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2973413,
+    		"filename": "helm_cloth_nazjatar_c_01_2973413.blp",
+    		"path": "tex/helmet/helm_cloth_nazjatar_c_01_2973413.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2966720,
+    		"filename": "shoulder_plate_nazjatar_c_01_2966720.blp",
+    		"path": "tex/shoulder/shoulder_plate_nazjatar_c_01_2966720.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2966721,
+    		"filename": "shoulder_plate_nazjatar_c_01_2966721.blp",
+    		"path": "tex/shoulder/shoulder_plate_nazjatar_c_01_2966721.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2966722,
+    		"filename": "shoulder_plate_nazjatar_c_01_2966722.blp",
+    		"path": "tex/shoulder/shoulder_plate_nazjatar_c_01_2966722.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2966723,
+    		"filename": "shoulder_plate_nazjatar_c_01_2966723.blp",
+    		"path": "tex/shoulder/shoulder_plate_nazjatar_c_01_2966723.blp",
+    		"flags": 0
+  
+		},
+
+
+
+		{
+			"fid": 2965496,
+    		"filename": "shoulder_plate_nazjatar_c_01_l.m2",
+    		"path": "shoulders/shoulder_plate_nazjatar_c_01_l.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2965497,
+    		"filename": "shoulder_plate_nazjatar_c_01_r.m2",
+    		"path": "shoulders/shoulder_plate_nazjatar_c_01_r.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2966728,
+    		"filename": "shoulder_plate_nazjatar_c_01_l00.skin",
+    		"path": "shoulders/shoulder_plate_nazjatar_c_01_l00.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2966730,
+    		"filename": "shoulder_plate_nazjatar_c_01_r00.skin",
+    		"path": "shoulders/shoulder_plate_nazjatar_c_01_r00.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 2902499,
+			"filename": "helm_leather_nazjatar_c_01_hum.m2",
+			"path": "helmets/human_male/helm_leather_nazjatar_c_01_hum.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 2902547,
+			"filename": "helm_leather_nazjatar_c_01_hum00.skin",
+			"path": "helmets/human_male/helm_leather_nazjatar_c_01_hum00.skin",
+			"flags": 0
+		},
+
+		{
+			"fid": 2902489,
+			"filename": "helm_leather_nazjatar_c_01_bem.m2",
+			"path": "helmets/bloodelf_male/helm_leather_nazjatar_c_01_bem.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 2902556,
+			"filename": "helm_leather_nazjatar_c_01_bem00.skin",
+			"path": "helmets/bloodelf_male/helm_leather_nazjatar_c_01_bem00.skin",
+			"flags": 0
+		},
+
+		{
+			"fid": 2902490,
+			"filename": "helm_leather_nazjatar_c_01_bef.m2",
+			"path": "helmets/bloodelf_female/helm_leather_nazjatar_c_01_bef.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 2902535,
+			"filename": "helm_leather_nazjatar_c_01_bef00.skin",
+			"path": "helmets/bloodelf_female/helm_leather_nazjatar_c_01_bef00.skin",
+			"flags": 0
+		},
+
+
+		{
+			"fid": 2902500,
+			"filename": "helm_leather_nazjatar_c_01_huf.m2",
+			"path": "helmets/human_female/helm_leather_nazjatar_c_01_huf.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 2902543,
+			"filename": "helm_leather_nazjatar_c_01_huf00.skin",
+			"path": "helmets/human_female/helm_leather_nazjatar_c_01_huf00.skin",
+			"flags": 0
+		},
+
+		{
+			"fid": 2902633,
+			"filename": "helm_leather_nazjatar_c_01_2902633.blp",
+			"path": "tex/helmet/helm_leather_nazjatar_c_01_2902633.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 2902634,
+			"filename": "helm_leather_nazjatar_c_01_2902634.blp",
+			"path": "tex/helmet/helm_leather_nazjatar_c_01_2902634.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 2902635,
+			"filename": "helm_leather_nazjatar_c_01_2902635.blp",
+			"path": "tex/helmet/helm_leather_nazjatar_c_01_2902635.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 2902636,
+			"filename": "helm_leather_nazjatar_c_01_2902636.blp",
+			"path": "tex/helmet/helm_leather_nazjatar_c_01_2902636.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 2973112,
+			"filename": "shoulder_cloth_nazjatar_c_01_l.m2",
+			"path": "shoulders/shoulder_cloth_nazjatar_c_01_l.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 2973113,
+			"filename": "shoulder_cloth_nazjatar_c_01_r.m2",
+			"path": "shoulders/shoulder_cloth_nazjatar_c_01_r.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 2973308,
+			"filename": "shoulder_cloth_nazjatar_c_01_l00.skin",
+			"path": "shoulders/shoulder_cloth_nazjatar_c_01_l00.skin",
+			"flags": 0
+		},
+
+		{
+			"fid": 2973313,
+			"filename": "shoulder_cloth_nazjatar_c_01_r00.skin",
+			"path": "shoulders/shoulder_cloth_nazjatar_c_01_r00.skin",
+			"flags": 0
+		},
+
+		{
+			"fid": 2973418,
+			"filename": "shoulder_cloth_nazjatar_c_01_2973418.blp",
+			"path": "tex/shoulder/shoulder_cloth_nazjatar_c_01_2973418.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 2973419,
+			"filename": "shoulder_cloth_nazjatar_c_01_2973419.blp",
+			"path": "tex/shoulder/shoulder_cloth_nazjatar_c_01_2973419.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 2973420,
+			"filename": "shoulder_cloth_nazjatar_c_01_2973420.blp",
+			"path": "tex/shoulder/shoulder_cloth_nazjatar_c_01_2973420.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 2973421,
+			"filename": "shoulder_cloth_nazjatar_c_01_2973421.blp",
+			"path": "tex/shoulder/shoulder_cloth_nazjatar_c_01_2973421.blp",
+			"flags": 0
+		},
+
+				{
+			"fid": 2902526,
+   			"filename": "shoulder_leather_nazjatar_c_01_l.m2",
+   			"path": "shoulders/shoulder_leather_nazjatar_c_01_l.m2",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2902527,
+   			"filename": "shoulder_leather_nazjatar_c_01_r.m2",
+   			"path": "shoulders/shoulder_leather_nazjatar_c_01_r.m2",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2902531,
+   			"filename": "shoulder_leather_nazjatar_c_01_l00.skin",
+   			"path": "shoulders/shoulder_leather_nazjatar_c_01_l00.skin",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2902532,
+   			"filename": "shoulder_leather_nazjatar_c_01_r00.skin",
+   			"path": "shoulders/shoulder_leather_nazjatar_c_01_r00.skin",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2902629,
+   			"filename": "shoulder_leather_nazjatar_c_01_2902629.blp",
+   			"path": "tex/shoulder/shoulder_leather_nazjatar_c_01_2902629.blp",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2902630,
+   			"filename": "shoulder_leather_nazjatar_c_01_2902630.blp",
+   			"path": "tex/shoulder/shoulder_leather_nazjatar_c_01_2902630.blp",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2902631,
+   			"filename": "shoulder_leather_nazjatar_c_01_2902631.blp",
+   			"path": "tex/shoulder/shoulder_leather_nazjatar_c_01_2902631.blp",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2902632,
+   			"filename": "shoulder_leather_nazjatar_c_01_2902632.blp",
+   			"path": "tex/shoulder/shoulder_leather_nazjatar_c_01_2902632.blp",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2913499,
+   			"filename": "helm_mail_nazjatar_c_01_hum.m2",
+   			"path": "helmets/human_male/helm_mail_nazjatar_c_01_hum.m2",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2915363,
+   			"filename": "helm_mail_nazjatar_c_01_hum00.skin",
+   			"path": "helmets/human_male/helm_mail_nazjatar_c_01_hum00.skin",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2913500,
+   			"filename": "helm_mail_nazjatar_c_01_huf.m2",
+   			"path": "helmets/human_female/helm_mail_nazjatar_c_01_huf.m2",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2915347,
+   			"filename": "helm_mail_nazjatar_c_01_huf00.skin",
+   			"path": "helmets/human_female/helm_mail_nazjatar_c_01_huf00.skin",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2913489,
+   			"filename": "helm_mail_nazjatar_c_01_bem.m2",
+   			"path": "helmets/bloodelf_male/helm_mail_nazjatar_c_01_bem.m2",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2915365,
+   			"filename": "helm_mail_nazjatar_c_01_bem00.skin",
+   			"path": "helmets/bloodelf_male/helm_mail_nazjatar_c_01_bem00.skin",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2913490,
+   			"filename": "helm_mail_nazjatar_c_01_bef.m2",
+   			"path": "helmets/bloodelf_female/helm_mail_nazjatar_c_01_bef.m2",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2915352,
+   			"filename": "helm_mail_nazjatar_c_01_bef00.skin",
+   			"path": "helmets/bloodelf_female/helm_mail_nazjatar_c_01_bef00.skin",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2915295,
+   			"filename": "helm_mail_nazjatar_c_01_2915295.blp",
+   			"path": "tex/helmet/helm_mail_nazjatar_c_01_2915295.blp",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2915296,
+   			"filename": "helm_mail_nazjatar_c_01_2915296.blp",
+   			"path": "tex/helmet/helm_mail_nazjatar_c_01_2915296.blp",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2915297,
+   			"filename": "helm_mail_nazjatar_c_01_2915297.blp",
+   			"path": "tex/helmet/helm_mail_nazjatar_c_01_2915297.blp",
+   			"flags": 0
+  
+		},
+
+		{
+			"fid": 2915298,
+   			"filename": "helm_mail_nazjatar_c_01_2915298.blp",
+   			"path": "tex/helmet/helm_mail_nazjatar_c_01_2915298.blp",
+   			"flags": 0
+  
+		}
+
+
+	]
+	
+}
+
+}

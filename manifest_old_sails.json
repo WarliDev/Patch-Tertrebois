@@ -1,0 +1,52 @@
+
+{
+	"name": "patch-neutral-sails",
+	"description": "By Warli",
+	"version": "1.0",
+	"files":
+
+	[
+		{
+			"fid": 1827805,
+    		"filename": "8hu_kultiras_sailflagsrope01.blp",
+    		"path": "8hu_kultiras_sailflagsrope01.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 1827809,
+    		"filename": "8hu_kultiras_sailmain01.blp",
+    		"path": "8hu_kultiras_sailmain01.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 1827807,
+    		"filename": "8hu_kultiras_sailwhite01.blp",
+    		"path": "8hu_kultiras_sailwhite01.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 1970417,
+    		"filename": "8hu_kultiras_shipsailfurled01.blp",
+    		"path": "8hu_kultiras_shipsailfurled01.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 1827803,
+			"filename": "8hu_kultiras_sailmedium01.blp",
+			"path": "8hu_kultiras_sailmedium01.blp",
+			"flags": 0
+		}
+
+	]
+	
+}
+
+}

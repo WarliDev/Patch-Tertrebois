@@ -1,0 +1,1216 @@
+
+{
+	"name": "patch_neutral_extended",
+	"description": "Extension du patch neutral, contient des modifications de stuffs et des importations depuis DF. By Warli!",
+	"version": "1.0",
+	"files":
+
+	[
+		{
+			"fid": 143284,
+    		"filename": "lshoulder_plate_raidwarrior_a_01.m2",
+    		"path": "shoulders/kultirasdungeon_c_01/shoulder_plate_kultirasdungeon_c_01_l.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 143583,
+    		"filename": "rshoulder_plate_raidwarrior_a_01.m2",
+    		"path": "shoulders/kultirasdungeon_c_01/shoulder_plate_kultirasdungeon_c_01_r.m2",
+    		"flags": 0
+  
+		},
+
+
+
+
+		{
+			"fid": 803626,
+    		"filename": "helm_plate_raiddeathknight_m_01_hum.m2",
+    		"path": "helmet/helm_plate_dragonquest_b_01/human_male/4078672.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803627,
+    		"filename": "helm_plate_raiddeathknight_m_01_hum00.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/human_male/407867200.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803627001,
+    		"filename": "helm_plate_raiddeathknight_m_01_hum_lod01.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/human_male/4078672_lod01.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803627002,
+    		"filename": "helm_plate_raiddeathknight_m_01_hum_lod02.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/human_male/4078672_lod02.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803627003,
+    		"filename": "helm_plate_raiddeathknight_m_01_hum_lod03.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/human_male/4078672_lod03.skin",
+    		"flags": 0
+  
+		},
+
+
+
+
+		{
+			"fid": 803742,
+    		"filename": "helm_plate_raiddeathknight_m_01_huf.m2",
+    		"path": "helmet/helm_plate_dragonquest_b_01/human_female/4078673.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803743,
+    		"filename": "helm_plate_raiddeathknight_m_01_huf00.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/human_female/407867300.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803743001,
+    		"filename": "helm_plate_raiddeathknight_m_01_huf_lod01.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/human_female/4078673_lod01.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803743002,
+    		"filename": "helm_plate_raiddeathknight_m_01_huf_lod02.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/human_female/4078673_lod02.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803743003,
+    		"filename": "helm_plate_raiddeathknight_m_01_huf_lod03.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/human_female/4078673_lod03.skin",
+    		"flags": 0
+  
+		},
+
+
+
+
+		{
+			"fid": 803721,
+    		"filename": "helm_plate_raiddeathknight_m_01_bef.m2",
+    		"path": "helmet/helm_plate_dragonquest_b_01/bloodelf_female/4078661.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803722,
+    		"filename": "helm_plate_raiddeathknight_m_01_bef00.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/bloodelf_female/407866100.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803722001,
+    		"filename": "helm_plate_raiddeathknight_m_01_bef_lod01.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/bloodelf_female/4078661_lod01.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803722002,
+    		"filename": "helm_plate_raiddeathknight_m_01_bef_lod02.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/bloodelf_female/4078661_lod02.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803722003,
+    		"filename": "helm_plate_raiddeathknight_m_01_bef_lod03.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/bloodelf_female/4078661_lod03.skin",
+    		"flags": 0
+  
+		},
+
+
+
+		{
+			"fid": 803723,
+    		"filename": "helm_plate_raiddeathknight_m_01_bem.m2",
+    		"path": "helmet/helm_plate_dragonquest_b_01/bloodelf_male/4078660.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803724,
+    		"filename": "helm_plate_raiddeathknight_m_01_bem00.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/bloodelf_male/407866000.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803724001,
+    		"filename": "helm_plate_raiddeathknight_m_01_bem_lod01.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/bloodelf_male/4078660_lod01.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803724002,
+    		"filename": "helm_plate_raiddeathknight_m_01_bem_lod02.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/bloodelf_male/4078660_lod02.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803724003,
+    		"filename": "helm_plate_raiddeathknight_m_01_bem_lod03.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/bloodelf_male/4078660_lod03.skin",
+    		"flags": 0
+  
+		},
+
+
+
+
+
+
+		{
+			"fid": 803628,
+    		"filename": "helm_plate_raiddeathknight_m_01_nif.m2",
+    		"path": "helmet/helm_plate_dragonquest_b_01/nightelf_female/4078679.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803629,
+    		"filename": "helm_plate_raiddeathknight_m_01_nif00.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/nightelf_female/407867900.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803629001,
+    		"filename": "helm_plate_raiddeathknight_m_01_nif_lod01.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/nightelf_female/4078679_lod01.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803629002,
+    		"filename": "helm_plate_raiddeathknight_m_01_nif_lod02.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/nightelf_female/4078679_lod02.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803629003,
+    		"filename": "helm_plate_raiddeathknight_m_01_nif_lod03.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/nightelf_female/4078679_lod03.skin",
+    		"flags": 0
+  
+		},
+
+
+
+
+
+		{
+			"fid": 803630,
+    		"filename": "helm_plate_raiddeathknight_m_01_nim.m2",
+    		"path": "helmet/helm_plate_dragonquest_b_01/nightelf_male/4078678.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803631,
+    		"filename": "helm_plate_raiddeathknight_m_01_nim00.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/nightelf_male/407867800.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803631001,
+    		"filename": "helm_plate_raiddeathknight_m_01_nim_lod01.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/nightelf_male/4078678_lod01.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803631002,
+    		"filename": "helm_plate_raiddeathknight_m_01_nim_lod02.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/nightelf_male/4078678_lod02.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803631003,
+    		"filename": "helm_plate_raiddeathknight_m_01_nim_lod03.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/nightelf_male/4078678_lod03.skin",
+    		"flags": 0
+  
+		},
+
+
+
+
+		{
+			"fid": 803652,
+    		"filename": "helm_plate_raiddeathknight_m_01_wof.m2",
+    		"path": "helmet/helm_plate_dragonquest_b_01/worgen_female/4078694.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803653,
+    		"filename": "helm_plate_raiddeathknight_m_01_wof00.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/worgen_female/407869400.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803653001,
+    		"filename": "helm_plate_raiddeathknight_m_01_wof_lod01.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/worgen_female/4078694_lod01.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803653002,
+    		"filename": "helm_plate_raiddeathknight_m_01_wof_lod02.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/worgen_female/4078694_lod02.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803653003,
+    		"filename": "helm_plate_raiddeathknight_m_01_wof_lod03.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/worgen_female/4078694_lod03.skin",
+    		"flags": 0
+  
+		},
+
+
+
+
+
+		{
+			"fid": 803654,
+    		"filename": "helm_plate_raiddeathknight_m_01_wom.m2",
+    		"path": "helmet/helm_plate_dragonquest_b_01/worgen_male/4078693.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803655,
+    		"filename": "helm_plate_raiddeathknight_m_01_wom00.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/worgen_male/407869300.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803655001,
+    		"filename": "helm_plate_raiddeathknight_m_01_wom_lod01.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/worgen_male/4078693_lod01.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803655002,
+    		"filename": "helm_plate_raiddeathknight_m_01_wom_lod02.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/worgen_male/4078693_lod02.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803655003,
+    		"filename": "helm_plate_raiddeathknight_m_01_wom_lod03.skin",
+    		"path": "helmet/helm_plate_dragonquest_b_01/worgen_male/4078693_lod03.skin",
+    		"flags": 0
+  
+		},
+
+
+
+
+
+		{
+			"fid": 803720,
+    		"filename": "helm_plate_raiddeathknight_m_01.blp",
+    		"path": "helmet/helm_plate_dragonquest_b_01/TEX/4078660_4079331.blp",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803741,
+    		"filename":"helm_plate_raiddeathknight_m_01_green.blp",
+    		"path": "helmet/helm_plate_dragonquest_b_01/TEX/4078660_4079333.blp",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803744,
+    		"filename": "helm_plate_raiddeathknight_m_01_red.blp",
+    		"path": "helmet/helm_plate_dragonquest_b_01/TEX/4078660_4079334.blp",
+    		"flags": 0
+  
+		},
+
+
+
+
+
+		{
+			"fid": 803664,
+    		"filename": "buckle_plate_raiddeathknight_m_01.m2",
+    		"path": "wraist/belt_plate_dragonquest_b_01/4078699.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803665,
+    		"filename": "buckle_plate_raiddeathknight_m_0100.skin",
+    		"path": "wraist/belt_plate_dragonquest_b_01/407869900.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803665001,
+    		"filename": "buckle_plate_raiddeathknight_m_01_lod01.skin",
+    		"path": "wraist/belt_plate_dragonquest_b_01/4078699_lod01.skin",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 803663,
+    		"filename": "buckle_plate_raiddeathknight_m_01.blp",
+    		"path": "wraist/belt_plate_dragonquest_b_01/TEX/4078699_4079266.blp",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803666,
+    		"filename": "buckle_plate_raiddeathknight_m_01_green.blp",
+    		"path": "wraist/belt_plate_dragonquest_b_01/TEX/4078699_4079265_green.blp",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803667,
+    		"filename": "buckle_plate_raiddeathknight_m_01_red.blp",
+    		"path": "wraist/belt_plate_dragonquest_b_01/TEX/4078699_4079263_red.blp",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803694,
+    		"filename": "plate_raiddeathknight_m_01_green_belt_lu_u.blp",
+    		"path": "wraist/belt_plate_dragonquest_b_01/TEX/4078699_lu_u_4079273_green.blp",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803696,
+    		"filename": "plate_raiddeathknight_m_01_red_belt_lu_u.blp",
+    		"path": "wraist/belt_plate_dragonquest_b_01/TEX/4078699_lu_u_4079268_red.blp",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803692,
+    		"filename": "plate_raiddeathknight_m_01_blue_belt_lu_u.blp",
+    		"path": "wraist/belt_plate_dragonquest_b_01/TEX/4078699_lu_u_4079286.blp",
+    		"flags": 0
+  
+		},
+
+
+
+
+
+
+		{
+			"fid": 803656,
+    		"filename": "lshoulder_plate_raiddeathknight_m_01.m2",
+    		"path": "shoulders/shoulder_plate_dragonquest_b_01/4078697_l.m2",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803657,
+    		"filename": "lshoulder_plate_raiddeathknight_m_0100.skin",
+    		"path": "shoulders/shoulder_plate_dragonquest_b_01/shoulder_plate_dragonquest_b_01_l00.skin",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803657001,
+    		"filename": "lshoulder_plate_raiddeathknight_m_01_lod01.skin",
+    		"path": "shoulders/shoulder_plate_dragonquest_b_01/shoulder_plate_dragonquest_b_01_l_lod01.skin",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803657002,
+    		"filename": "lshoulder_plate_raiddeathknight_m_01_lod02.skin",
+    		"path": "shoulders/shoulder_plate_dragonquest_b_01/shoulder_plate_dragonquest_b_01_l_lod02.skin",
+    		"flags": 0
+  
+		},
+
+
+		{
+			"fid": 803658,
+    		"filename": "rshoulder_plate_raiddeathknight_m_01.m2",
+    		"path": "shoulders/shoulder_plate_dragonquest_b_01/4078698_r.m2",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803659,
+    		"filename": "rshoulder_plate_raiddeathknight_m_0100.skin",
+    		"path": "shoulders/shoulder_plate_dragonquest_b_01/shoulder_plate_dragonquest_b_01_r00.skin",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803659001,
+    		"filename": "rshoulder_plate_raiddeathknight_m_01_lod01.skin",
+    		"path": "shoulders/shoulder_plate_dragonquest_b_01/shoulder_plate_dragonquest_b_01_r_lod01.skin",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803659002,
+    		"filename": "rshoulder_plate_raiddeathknight_m_01_lod02.skin",
+    		"path": "shoulders/shoulder_plate_dragonquest_b_01/shoulder_plate_dragonquest_b_01_r_lod02.skin",
+    		"flags": 0
+  
+		},
+
+
+		{
+			"fid": 803660,
+    		"filename": "shoulder_plate_raiddeathknight_m_01.skin",
+    		"path": "shoulders/shoulder_plate_dragonquest_b_01/TEX/4078697_4079315.blp",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803661,
+    		"filename": "shoulder_plate_raiddeathknight_m_01_green.skin",
+    		"path": "shoulders/shoulder_plate_dragonquest_b_01/TEX/4078697_4079314_green.blp",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 803662,
+    		"filename": "shoulder_plate_raiddeathknight_m_01_red.skin",
+    		"path": "shoulders/shoulder_plate_dragonquest_b_01/TEX/4078697_4079312_red.blp",
+    		"flags": 0
+  
+		},
+
+
+
+		{
+			"fid": 901268,
+    		"filename": "mail_raidshaman_n_01blue_boot_ll_u.blp",
+    		"path": "boots/boot_plate_dragonquest_b_01/boot_plate_dragonquest_b_01_ll_u_4079289.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 901262,
+    		"filename": "mail_raidshaman_n_01blue_boot_fo_u.blp",
+    		"path": "boots/boot_plate_dragonquest_b_01/boot_plate_dragonquest_b_01_fo_u_4079288.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 901264,
+    		"filename": "mail_raidshaman_n_01orange_boot_fo_u.blp",
+    		"path": "boots/boot_plate_dragonquest_b_01/boot_plate_dragonquest_b_01_fo_u_4079275_green.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 901274,
+    		"filename": "mail_raidshaman_n_01orange_boot_ll_u.blp",
+    		"path": "boots/boot_plate_dragonquest_b_01/boot_plate_dragonquest_b_01_ll_u_4079276_green.blp",
+    		"flags": 0
+  
+		},
+
+
+		{
+			"fid": 901271,
+    		"filename": "mail_raidshaman_n_01green_boot_ll_u.blp",
+    		"path": "boots/boot_plate_dragonquest_b_01/boot_plate_dragonquest_b_01_ll_u_4079170_red.blp",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 901263,
+    		"filename": "mail_raidshaman_n_01green_boot_fo_u.blp",
+    		"path": "boots/boot_plate_dragonquest_b_01/boot_plate_dragonquest_b_01_fo_u_4079169_red.blp",
+    		"flags": 0
+  
+		},
+
+
+		{
+			"fid": 1033237,
+			"filename": "leather_draenorhonor_c_01_alliance_glove_al_u.blp",
+			"path": "hands/glove_plate_dragonquest_b_01/glove_plate_dragonquest_b_01_al_u_4079293.blp",
+			"flags": 0
+		},
+		{
+			"fid": 1033256,
+			"filename": "leather_draenorhonor_c_01_alliance_glove_ha_u.blp",
+			"path": "hands/glove_plate_dragonquest_b_01/glove_plate_dragonquest_b_01_ha_u_4079294.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 969404,
+			"filename": "leather_draenorlfr_c_01_glove_ha_u.blp",
+			"path": "hands/glove_plate_dragonquest_b_01/glove_plate_dragonquest_b_01_ha_u_4079175_red.blp",
+			"flags": 0
+		},
+		{
+			"fid": 969394,
+			"filename": "leather_draenorlfr_c_01_glove_al_u.blp",
+			"path": "hands/glove_plate_dragonquest_b_01/glove_plate_dragonquest_b_01_al_u_4079174_red.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 969391,
+			"filename": "leather_draenorlfr_c_01yellow_glove_al_u.blp",
+			"path": "hands/glove_plate_dragonquest_b_01/glove_plate_dragonquest_b_01_al_u_4079280_green.blp",
+			"flags": 0
+		},
+		{
+			"fid": 969403,
+			"filename": "leather_draenorlfr_c_01yellow_glove_ha_u.blp",
+			"path": "hands/glove_plate_dragonquest_b_01/glove_plate_dragonquest_b_01_ha_u_4079281_green.blp",
+			"flags": 0
+		},
+
+
+
+
+        {
+            "fid": 2966676,
+            "filename": "plate_nazjatar_c_01_chest_tl_f_2966676.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/torsolower/chest_plate_dragonquest_b_01_tl_u_4079291.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966677,
+            "filename": "plate_nazjatar_c_01_chest_tl_m_2966677.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/torsolower/chest_plate_dragonquest_b_01_tl_u_4079291.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966678,
+            "filename": "plate_nazjatar_c_01_chest_tu_f_2966678.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/torsoupper/chest_plate_dragonquest_b_01_tu_u_4079292.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966679,
+            "filename": "plate_nazjatar_c_01_chest_tu_m_2966679.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/torsoupper/chest_plate_dragonquest_b_01_tu_u_4079292.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966684,
+            "filename": "plate_nazjatar_c_01_chest_al_u_2966684.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/armlower/chest_plate_dragonquest_b_01_al_u_4079297.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966685,
+            "filename": "plate_nazjatar_c_01_chest_au_u_2966685.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/armupper/chest_plate_dragonquest_b_01_au_u_4079298.blp",
+            "flags": 0
+        },
+
+        {
+            "fid": 2966691,
+            "filename": "plate_nazjatar_c_01_chest_tl_f_2966691.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/torsolower/chest_plate_dragonquest_b_01_tl_u_4079278_green.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966692,
+            "filename": "plate_nazjatar_c_01_chest_tl_m_2966692.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/torsolower/chest_plate_dragonquest_b_01_tl_u_4079278_green.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966693,
+            "filename": "plate_nazjatar_c_01_chest_tu_f_2966693.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/torsoupper/chest_plate_dragonquest_b_01_tu_u_4079279_green.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966694,
+            "filename": "plate_nazjatar_c_01_chest_tu_m_2966694.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/torsoupper/chest_plate_dragonquest_b_01_tu_u_4079279_green.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966699,
+            "filename": "plate_nazjatar_c_01_chest_al_u_2966699.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/armlower/chest_plate_dragonquest_b_01_al_u_4079284_green.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966700,
+            "filename": "plate_nazjatar_c_01_chest_au_u_2966700.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/armupper/chest_plate_dragonquest_b_01_au_u_4079285_green.blp",
+            "flags": 0
+        },
+
+        {
+            "fid": 2966706,
+            "filename": "plate_nazjatar_c_01_chest_tl_f_2966706.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/torsolower/chest_plate_dragonquest_b_01_tl_u_4079172_red.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966707,
+            "filename": "plate_nazjatar_c_01_chest_tl_m_2966707.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/torsolower/chest_plate_dragonquest_b_01_tl_u_4079172_red.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966708,
+            "filename": "plate_nazjatar_c_01_chest_tu_f_2966708.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/torsoupper/chest_plate_dragonquest_b_01_tu_u_4079173_red.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966709,
+            "filename": "plate_nazjatar_c_01_chest_tu_m_2966709.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/torsoupper/chest_plate_dragonquest_b_01_tu_u_4079173_red.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966714,
+            "filename": "plate_nazjatar_c_01_chest_al_u_2966714.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/armlower/chest_plate_dragonquest_b_01_al_u_4079180_red.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966715,
+            "filename": "plate_nazjatar_c_01_chest_au_u_2966715.blp",
+            "path": "chest/chest_plate_dragonquest_b_01/armupper/chest_plate_dragonquest_b_01_au_u_4079181_red.blp",
+            "flags": 0
+        },
+
+
+
+
+
+        {
+            "fid": 2966682,
+            "filename": "plate_nazjatar_c_01_pant_ll_u_2966682.blp",
+            "path": "legs/pant_plate_dragonquest_b_01/pant_plate_dragonquest_b_01_ll_u_4079176.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966683,
+            "filename": "plate_nazjatar_c_01_pant_lu_u_2966683.blp",
+            "path": "legs/pant_plate_dragonquest_b_01/pant_plate_dragonquest_b_01_lu_u_4079177.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966697,
+            "filename": "plate_nazjatar_c_01_pant_ll_u_2966697.blp",
+            "path": "legs/pant_plate_dragonquest_b_01/pant_plate_dragonquest_b_01_ll_u_4079282_green.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966698,
+            "filename": "plate_nazjatar_c_01_pant_lu_u_2966698.blp",
+            "path": "legs/pant_plate_dragonquest_b_01/pant_plate_dragonquest_b_01_lu_u_4079283_green.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966712,
+            "filename": "plate_nazjatar_c_01_pant_ll_u_2966712.blp",
+            "path": "legs/pant_plate_dragonquest_b_01/pant_plate_dragonquest_b_01_ll_u_4079295_red.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2966713,
+            "filename": "plate_nazjatar_c_01_pant_lu_u_2966713.blp",
+            "path": "legs/pant_plate_dragonquest_b_01/pant_plate_dragonquest_b_01_lu_u_4079296_red.blp",
+            "flags": 0
+        },
+
+
+
+
+
+        {
+            "fid": 1338659,
+            "filename": "helm_mail_raidshaman_q_01_bef.m2",
+            "path": "helmet/mail_dragonquest_b_01_helm/bloodelf_female/mail_dragonquest_b_01_helm_be_f.m2",
+            "flags": 0
+        },
+        {
+            "fid": 1338763,
+            "filename": "helm_mail_raidshaman_q_01_bef00.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/bloodelf_female/mail_dragonquest_b_01_helm_be_f00.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338763001,
+            "filename": "mail_dragonquest_b_01_helm_be_f_lod01.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/bloodelf_female/mail_dragonquest_b_01_helm_be_f_lod01.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338763002,
+            "filename": "mail_dragonquest_b_01_helm_be_f_lod02.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/bloodelf_female/mail_dragonquest_b_01_helm_be_f_lod02.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338763003,
+            "filename": "mail_dragonquest_b_01_helm_be_f_lod03.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/bloodelf_female/mail_dragonquest_b_01_helm_be_f_lod03.skin",
+            "flags": 0
+        },
+
+
+
+
+        {
+            "fid": 1338660,
+            "filename": "helm_mail_raidshaman_q_01_bem.m2",
+            "path": "helmet/mail_dragonquest_b_01_helm/bloodelf_male/mail_dragonquest_b_01_helm_be_m.m2",
+            "flags": 0
+        },
+        {
+            "fid": 1338764,
+            "filename": "helm_mail_raidshaman_q_01_bem00.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/bloodelf_male/mail_dragonquest_b_01_helm_be_m00.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338764001,
+            "filename": "mail_dragonquest_b_01_helm_be_m_lod01.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/bloodelf_male/mail_dragonquest_b_01_helm_be_m_lod01.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338764002,
+            "filename": "mail_dragonquest_b_01_helm_be_m_lod02.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/bloodelf_male/mail_dragonquest_b_01_helm_be_m_lod02.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338764003,
+            "filename": "mail_dragonquest_b_01_helm_be_m_lod03.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/bloodelf_male/mail_dragonquest_b_01_helm_be_m_lod03.skin",
+            "flags": 0
+        },
+
+
+		{
+            "fid": 1338669,
+            "filename": "helm_mail_raidshaman_q_01_huf.m2",
+            "path": "helmet/mail_dragonquest_b_01_helm/human_female/mail_dragonquest_b_01_helm_hu_f.m2",
+            "flags": 0
+        },
+        {
+            "fid": 1338774,
+            "filename": "helm_mail_raidshaman_q_01_huf00.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/human_female/mail_dragonquest_b_01_helm_hu_f00.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338774001,
+            "filename": "mail_dragonquest_b_01_helm_hu_f_lod01.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/human_female/mail_dragonquest_b_01_helm_hu_f_lod01.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338774002,
+            "filename": "mail_dragonquest_b_01_helm_hu_f_lod02.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/human_female/mail_dragonquest_b_01_helm_hu_f_lod02.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338774003,
+            "filename": "mail_dragonquest_b_01_helm_hu_f_lod03.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/human_female/mail_dragonquest_b_01_helm_hu_f_lod03.skin",
+            "flags": 0
+        },
+
+
+
+
+
+		{
+            "fid": 1338670,
+            "filename": "helm_mail_raidshaman_q_01_hum.m2",
+            "path": "helmet/mail_dragonquest_b_01_helm/human_male/mail_dragonquest_b_01_helm_hu_m.m2",
+            "flags": 0
+        },
+        {
+            "fid": 1338775,
+            "filename": "helm_mail_raidshaman_q_01_hum00.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/human_male/mail_dragonquest_b_01_helm_hu_m00.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338775001,
+            "filename": "mail_dragonquest_b_01_helm_hu_m_lod01.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/human_male/mail_dragonquest_b_01_helm_hu_m_lod01.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338775002,
+            "filename": "mail_dragonquest_b_01_helm_hu_m_lod02.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/human_male/mail_dragonquest_b_01_helm_hu_m_lod02.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338775003,
+            "filename": "mail_dragonquest_b_01_helm_hu_m_lod03.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/human_male/mail_dragonquest_b_01_helm_hu_m_lod03.skin",
+            "flags": 0
+        },
+
+
+
+
+
+
+		{
+            "fid": 1338671,
+            "filename": "helm_mail_raidshaman_q_01_nif.m2",
+            "path": "helmet/mail_dragonquest_b_01_helm/nightelf_female/mail_dragonquest_b_01_helm_ni_f.m2",
+            "flags": 0
+        },
+        {
+            "fid": 1338776,
+            "filename": "helm_mail_raidshaman_q_01_nif00.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/nightelf_female/mail_dragonquest_b_01_helm_ni_f00.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338776001,
+            "filename": "mail_dragonquest_b_01_helm_ni_f_lod01.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/nightelf_female/mail_dragonquest_b_01_helm_ni_f_lod01.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338776002,
+            "filename": "mail_dragonquest_b_01_helm_ni_f_lod02.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/nightelf_female/mail_dragonquest_b_01_helm_ni_f_lod02.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338776003,
+            "filename": "mail_dragonquest_b_01_helm_ni_f_lod03.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/nightelf_female/mail_dragonquest_b_01_helm_ni_f_lod03.skin",
+            "flags": 0
+        },
+
+
+
+
+
+
+		{
+            "fid": 1338672,
+            "filename": "helm_mail_raidshaman_q_01_nim.m2",
+            "path": "helmet/mail_dragonquest_b_01_helm/nightelf_male/mail_dragonquest_b_01_helm_ni_m.m2",
+            "flags": 0
+        },
+        {
+            "fid": 1338777,
+            "filename": "helm_mail_raidshaman_q_01_nim00.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/nightelf_male/mail_dragonquest_b_01_helm_ni_m00.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338777001,
+            "filename": "mail_dragonquest_b_01_helm_ni_m_lod01.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/nightelf_male/mail_dragonquest_b_01_helm_ni_m_lod01.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338777002,
+            "filename": "mail_dragonquest_b_01_helm_ni_m_lod02.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/nightelf_male/mail_dragonquest_b_01_helm_ni_m_lod02.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338777003,
+            "filename": "mail_dragonquest_b_01_helm_ni_m_lod03.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/nightelf_male/mail_dragonquest_b_01_helm_ni_m_lod03.skin",
+            "flags": 0
+        },
+
+
+
+
+
+
+
+
+        {
+            "fid": 1338683,
+            "filename": "helm_mail_raidshaman_q_01_wof.m2",
+            "path": "helmet/mail_dragonquest_b_01_helm/worgen_female/mail_dragonquest_b_01_helm_wo_f.m2",
+            "flags": 0
+        },
+        {
+            "fid": 1338788,
+            "filename": "helm_mail_raidshaman_q_01_wof00.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/worgen_female/mail_dragonquest_b_01_helm_wo_f00.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338788001,
+            "filename": "mail_dragonquest_b_01_helm_wo_f_lod01.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/worgen_female/mail_dragonquest_b_01_helm_wo_f_lod01.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338788002,
+            "filename": "mail_dragonquest_b_01_helm_wo_f_lod02.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/worgen_female/mail_dragonquest_b_01_helm_wo_f_lod02.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338788003,
+            "filename": "mail_dragonquest_b_01_helm_wo_f_lod03.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/worgen_female/mail_dragonquest_b_01_helm_wo_f_lod03.skin",
+            "flags": 0
+        },
+
+
+
+
+
+
+        {
+            "fid": 1338684,
+            "filename": "helm_mail_raidshaman_q_01_wom.m2",
+            "path": "helmet/mail_dragonquest_b_01_helm/worgen_male/mail_dragonquest_b_01_helm_wo_m.m2",
+            "flags": 0
+        },
+        {
+            "fid": 1338789,
+            "filename": "helm_mail_raidshaman_q_01_wom00.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/worgen_male/mail_dragonquest_b_01_helm_wo_m00.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338789001,
+            "filename": "mail_dragonquest_b_01_helm_wo_m_lod01.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/worgen_male/mail_dragonquest_b_01_helm_wo_m_lod01.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338789002,
+            "filename": "mail_dragonquest_b_01_helm_wo_m_lod02.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/worgen_male/mail_dragonquest_b_01_helm_wo_m_lod02.skin",
+            "flags": 0
+        },
+        {
+            "fid": 1338789003,
+            "filename": "mail_dragonquest_b_01_helm_wo_m_lod03.skin",
+            "path": "helmet/mail_dragonquest_b_01_helm/worgen_male/mail_dragonquest_b_01_helm_wo_m_lod03.skin",
+            "flags": 0
+        },
+
+
+
+        {
+            "fid": 1339385,
+            "filename": "helm_mail_raidshaman_q_01_fel.blp",
+            "path": "helmet/mail_dragonquest_b_01_helm/TEX/4184558_4419824_silver.blp",
+            "flags": 0
+        },
+        {
+            "fid": 1339386,
+            "filename": "helm_mail_raidshaman_q_01_fire.blp",
+            "path": "helmet/mail_dragonquest_b_01_helm/TEX/4184558_4419825_gold.blp",
+            "flags": 0
+        },
+        {
+            "fid": 1339387,
+            "filename": "helm_mail_raidshaman_q_01_ice.blp",
+            "path": "helmet/mail_dragonquest_b_01_helm/TEX/4184558_4419827_goldsilver.blp",
+            "flags": 0
+        },
+		{
+            "fid": 1339388,
+            "filename": "helm_mail_raidshaman_q_01_lightning.blp",
+            "path": "helmet/mail_dragonquest_b_01_helm/TEX/4184558_4419825_gold.blp",
+            "flags": 0
+        },
+        {
+            "fid": 1339439,
+            "filename": "inv_helm_mail_raidshaman_q_01.blp",
+            "path": "helmet/mail_dragonquest_b_01_helm/TEX/4184558_4419824_silver.blp",
+            "flags": 0
+        },
+        {
+            "fid": 1399989,
+            "filename": "helm_mail_raidshaman_q_01_gem.blp",
+            "path": "helmet/mail_dragonquest_b_01_helm/TEX/4184558_4419827_goldsilver.blp",
+            "flags": 0
+        },
+
+
+
+
+        {
+            "fid": 2913531,
+            "filename": "shoulder_mail_nazjatar_c_01_l.m2",
+            "path": "shoulders/shoulder_mail_dragonquest_b_01/shoulder_mail_dragonquest_b_01_l.m2",
+            "flags": 0
+        },
+        {
+            "fid": 2915371,
+            "filename": "shoulder_mail_nazjatar_c_01_l00.skin",
+            "path": "shoulders/shoulder_mail_dragonquest_b_01/shoulder_mail_dragonquest_b_01_l00.skin",
+            "flags": 0
+        },
+        {
+            "fid": 2915371001,
+            "filename": "shoulder_mail_dragonquest_b_01_l_lod01.skin",
+            "path": "shoulders/shoulder_mail_dragonquest_b_01/shoulder_mail_dragonquest_b_01_l_lod01.skin",
+            "flags": 0
+        },
+        {
+            "fid": 2915371002,
+            "filename": "shoulder_mail_dragonquest_b_01_l_lod02.skin",
+            "path": "shoulders/shoulder_mail_dragonquest_b_01/shoulder_mail_dragonquest_b_01_l_lod02.skin",
+            "flags": 0
+        },
+        {
+            "fid": 2915371003,
+            "filename": "shoulder_mail_dragonquest_b_01_l_lod03.skin",
+            "path": "shoulders/shoulder_mail_dragonquest_b_01/shoulder_mail_dragonquest_b_01_l_lod03.skin",
+            "flags": 0
+        },
+
+
+
+
+        {
+            "fid": 2913532,
+            "filename": "shoulder_mail_nazjatar_c_01_r.m2",
+            "path": "shoulders/shoulder_mail_dragonquest_b_01/shoulder_mail_dragonquest_b_01_r.m2",
+            "flags": 0
+        },
+        {
+            "fid": 2915372,
+            "filename": "shoulder_mail_nazjatar_c_01_r00.skin",
+            "path": "shoulders/shoulder_mail_dragonquest_b_01/shoulder_mail_dragonquest_b_01_r00.skin",
+            "flags": 0
+        },
+        {
+            "fid": 2915372001,
+            "filename": "shoulder_mail_dragonquest_b_01_r_lod01.skin",
+            "path": "shoulders/shoulder_mail_dragonquest_b_01/shoulder_mail_dragonquest_b_01_r_lod01.skin",
+            "flags": 0
+        },
+        {
+            "fid": 2915372002,
+            "filename": "shoulder_mail_dragonquest_b_01_r_lod02.skin",
+            "path": "shoulders/shoulder_mail_dragonquest_b_01/shoulder_mail_dragonquest_b_01_r_lod02.skin",
+            "flags": 0
+        },
+        {
+            "fid": 2915372003,
+            "filename": "shoulder_mail_dragonquest_b_01_r_lod03.skin",
+            "path": "shoulders/shoulder_mail_dragonquest_b_01/shoulder_mail_dragonquest_b_01_r_lod03.skin",
+            "flags": 0
+        },
+
+
+
+        {
+            "fid": 2915214,
+            "filename": "shoulder_mail_nazjatar_c_01_2915214.blp",
+            "path": "shoulders/shoulder_mail_dragonquest_b_01/TEX/4184600_4185285_silver.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2915215,
+            "filename": "shoulder_mail_nazjatar_c_01_2915215.blp",
+            "path": "shoulders/shoulder_mail_dragonquest_b_01/TEX/4184600_4185286_gold.blp",
+            "flags": 0
+        },
+        {
+            "fid": 2915216,
+            "filename": "shoulder_mail_nazjatar_c_01_2915216.blp",
+            "path": "shoulders/shoulder_mail_dragonquest_b_01/TEX/4184600_4185286_goldsilver.blp",
+            "flags": 0
+        }
+
+
+
+	]
+
+}

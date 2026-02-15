@@ -1,0 +1,159 @@
+
+{
+	"name": "retex_tiras",
+	"description": "warli à la demande de Lesfred",
+	"version": "1.0",
+	"files":
+
+	[
+
+		{
+			"fid": 1758009,
+			"filename": "8hu_kultiras_wallplaster02.blp",
+			"path": "8hu_kultiras_docks_tile02.blp",
+			"flags": 0
+		},
+		{
+			"fid": 1779929,
+			"filename": "8hu_kultiras_interiordoor02.blp",
+			"path": "8hu_kultiras_interiordoor02_1779929.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 1690052,
+			"filename": "8hu_kultiras_door01.blp",
+			"path": "8hu_kultiras_door01.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 1758019,
+			"filename": "8hu_kultiras_interiordoor02.blp",
+			"path": "8hu_kultiras_interiordoor02_1758019.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 1607228,
+			"filename": "8se_serpentine_tentbazaar10_wmo.wmo",
+			"path": "7ne_nightelf_walllargealt_1825672.wmo",
+			"flags": 0
+		},
+
+		{
+			"fid": 1606252,
+			"filename": "8se_serpentine_tentbazaar09_wmo.wmo",
+			"path": "7ne_nightelf_walllargealt_1839108.wmo",
+			"flags": 0
+		},
+
+		{
+			"fid": 1610737,
+			"filename": "8se_serpentine_tentbazaar08_wmo.wmo",
+			"path": "8hu_kultiras_mediumhouse_base02_1874403.wmo",
+			"flags": 0
+		},
+
+		{
+			"fid": 1606258,
+			"filename": "8se_serpentine_tentbazaar06_wmo.wmo",
+			"path": "8hu_kultiras_mediumhouse_base02_1924384.wmo",
+			"flags": 0
+		},
+
+		{
+			"fid": 1709386,
+			"filename": "8hu_kultiras_farmcorn02.m2",
+			"path": "8hu_kultiras_banner01_vaelsen.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 1709387,
+			"filename": "8hu_kultiras_farmonion01.m2",
+			"path": "8hu_kultiras_banner01_hanging_vaelsen.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 1709386001,
+			"filename": "8hu_kultiras_banner01_vaelsen.blp",
+			"path": "8hu_kultiras_banner01_vaelsen.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 1709379,
+			"filename": "8hu_kultiras_farmturnip01.m2",
+			"path": "8hu_kultiras_banner01_tertrebois.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 1709382,
+			"filename": "8hu_kultiras_farmturnip02.m2",
+			"path": "8hu_kultiras_banner01_hanging_tertrebois.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 1709379001,
+			"filename": "8hu_kultiras_banner01_tertrebois.blp",
+			"path": "8hu_kultiras_banner01_tertrebois.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 1542609,
+			"filename": "8hu_kultiras_sloop01_doodad.m2",
+			"path": "8hu_kultiras_banner01_secret.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 2031839,
+			"filename": "8hu_kultiras_drape04.m2",
+			"path": "8hu_kultiras_banner01_hanging_secret.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 1542609001,
+			"filename": "8hu_kultiras_banner01_secret.blp",
+			"path": "8hu_kultiras_banner01_secret.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 1678887,
+			"filename": "8template_cultureprops_mediumkit_campfire01.m2",
+			"path": "canon/8hu_human_cannon_neutral.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 1679716,
+			"filename": "8template_cultureprops_mediumkit_campfire0100.skin",
+			"path": "canon/8hu_human_cannon_neutral00.skin",
+			"flags": 0
+		},
+
+		{
+			"fid": 1678887001,
+			"filename": "8hu_human_cannon_neutral.blp",
+			"path": "canon/8hu_human_cannon_neutral.blp",
+			"flags": 0
+		}
+
+
+
+
+
+
+
+	]
+	
+}
+
+}

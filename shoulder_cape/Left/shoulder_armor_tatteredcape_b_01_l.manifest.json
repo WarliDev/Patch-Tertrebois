@@ -1,0 +1,33 @@
+{
+	"fileDataID": 6120746,
+	"textures": [
+		{
+			"fileDataID": 6121288,
+			"file": "..\\..\\..\\models\\6120746_6121288.blp"
+		},
+		{
+			"fileDataID": 983198,
+			"file": "armorreflect4.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 6121312,
+			"file": "shoulder_armor_tatteredcape_b_01_l00.skin"
+		}
+	],
+	"lodSkins": [
+		{
+			"fileDataID": 6121315,
+			"file": "shoulder_armor_tatteredcape_b_01_l_lod01.skin"
+		},
+		{
+			"fileDataID": 6121318,
+			"file": "shoulder_armor_tatteredcape_b_01_l_lod02.skin"
+		},
+		{
+			"fileDataID": 6121321,
+			"file": "shoulder_armor_tatteredcape_b_01_l_lod03.skin"
+		}
+	]
+}

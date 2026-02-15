@@ -1,0 +1,164 @@
+
+{
+	"name": "ArmesHisto",
+	"description": "Modèles de Lithream, utilisation personnelle après update et ré-importation sur le discord Tertrebois",
+	"version": "1.0",
+	"files":
+
+	[
+		{
+			"fid": 3736693,
+    		"filename": "sword_2h_newplayer_a_02.m2",
+    		"path": "ls/sword_2h_newplayer_a_02.m2",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 3736861,
+    		"filename": "sword_2h_newplayer_a_0200.skin",
+    		"path": "ls/sword_2h_newplayer_a_0200.skin",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 3736863,
+    		"filename": "sword_2h_newplayer_a_02_lod01.skin",
+    		"path": "ls/sword_2h_newplayer_a_02_lod00.skin",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 3736866,
+    		"filename": "sword_2h_newplayer_a_02_lod02.skin",
+    		"path": "ls/sword_2h_newplayer_a_02_LOD01.skin",
+    		"flags": 0
+  
+		},
+		{
+			"fid": 3736869,
+    		"filename": "sword_2h_newplayer_a_02_lod03.skin",
+    		"path": "ls/sword_2h_newplayer_a_02_LOD02.skin",
+    		"flags": 0
+  
+		},
+
+
+
+
+		{
+			"fid": 3736700,
+    		"filename": "sword_1h_newplayer_a_03.m2",
+    		"path": "as/sword_1h_newplayer_a_03.m2",
+    		"flags": 0
+  
+		},
+
+		{
+			"fid": 3736954,
+			"filename": "sword_1h_newplayer_a_0300.skin",
+			"path": "as/sword_1h_newplayer_a_0300.skin",
+			"flags": 0
+		},
+
+		{
+			"fid": 3737083,
+			"filename": "sword_1h_newplayer_a_03_light.blp",
+			"path": "as/as_1_baked.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 3737081,
+			"filename": "sword_1h_newplayer_a_03_white.blp",
+			"path": "as/as_2_baked.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 3737082,
+			"filename": "sword_1h_newplayer_a_03_brown.blp",
+			"path": "as/as_3_baked.blp",
+			"flags": 0
+		},
+
+
+
+
+
+
+		{
+			"fid": 148018,
+			"filename": "sword_1h_northrend_b_01.m2",
+			"path": "vs/sword_1h_northrend_b_01.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 490985,
+			"filename": "sword_1h_northrend_b_0100.skin",
+			"path": "vs/sword_1h_northrend_b_0100.skin",
+			"flags": 0
+		},
+
+		{
+			"fid": 148017,
+			"filename": "sword_1h_northrend_b_01.blp",
+			"path": "vs/vs_2_baked.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 148019,
+			"filename": "sword_1h_northrend_b_01bronze.blp",
+			"path": "vs/vs_2_baked.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 148020,
+			"filename": "sword_1h_northrend_b_01copper.blp",
+			"path": "vs/vs_3_baked.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 148021,
+			"filename": "sword_1h_northrend_b_01iron.blp",
+			"path": "vs/vs_3_baked.blp",
+			"flags": 0
+		},
+
+		{
+			"fid": 148022,
+			"filename": "sword_1h_northrend_b_01silver.blp",
+			"path": "vs/vs_1_baked.blp",
+			"flags": 0
+		},
+
+
+
+
+		{
+			"fid": 148228,
+			"filename": "sword_2h_ahnqiraj_d_01.m2",
+			"path": "krieg/sword_2h_ahnqiraj_d_01.m2",
+			"flags": 0
+		},
+
+		{
+			"fid": 491759,
+			"filename": "sword_2h_ahnqiraj_d_0100.skin",
+			"path": "krieg/sword_2h_ahnqiraj_d_0100.skin",
+			"flags": 0
+		},
+
+		{
+			"fid": 148229,
+			"filename": "sword_2h_ahnqiraj_d_01green.blp",
+			"path": "krieg/kriegsmesser_baked.blp",
+			"flags": 0
+		}
+
+	]
+
+}

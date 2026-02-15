@@ -1,0 +1,438 @@
+{
+  "name": "Patch Neutral - WMOs",
+  "description": "Un pack de WMO - Warli",
+  "version": "1.0",
+  "files":
+
+  [
+    {
+      "fid": 304062,
+      "filename": "gilneas_castle.wmo",
+      "path": "doubledoor_vrykul/7an_mysticwalls.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 304063,
+      "filename": "gilneas_castle_000.wmo",
+      "path": "doubledoor_vrykul/7an_mysticwalls_000.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 1601948,
+      "filename": "8dv_ancient_temple_post_02.wmo",
+      "path": "auberge_alizes/8hu_kultiras_seawall_crescent.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 1601949,
+      "filename": "8dv_ancient_temple_post_02_000.wmo",
+      "path": "auberge_alizes/8hu_kultiras_seawall_crescent_000.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 15987711,
+      "filename": "8hu_kultiras_seawall_crescent_001.wmo",
+      "path": "auberge_alizes/8hu_kultiras_seawall_crescent_001.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 15987712,
+      "filename": "8hu_kultiras_seawall_crescent_002.wmo",
+      "path": "auberge_alizes/8hu_kultiras_seawall_crescent_002.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 15987713,
+      "filename": "8hu_kultiras_seawall_crescent_003.wmo",
+      "path": "auberge_alizes/8hu_kultiras_seawall_crescent_003.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 15987714,
+      "filename": "8hu_kultiras_seawall_crescent_004.wmo",
+      "path": "auberge_alizes/8hu_kultiras_seawall_crescent_004.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 15987715,
+      "filename": "8hu_kultiras_seawall_crescent_005.wmo",
+      "path": "auberge_alizes/8hu_kultiras_seawall_crescent_005.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 15987716,
+      "filename": "8hu_kultiras_seawall_crescent_006.wmo",
+      "path": "auberge_alizes/8hu_kultiras_seawall_crescent_006.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 15987717,
+      "filename": "8hu_kultiras_seawall_crescent_007.wmo",
+      "path": "auberge_alizes/8hu_kultiras_seawall_crescent_007.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 1595109,
+      "filename": "8dv_ancient_doorway_01.wmo",
+      "path": "tour_malvoie/8dru_waycrestmanorexterior01.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 1595110,
+      "filename": "8dv_ancient_doorway_01_000.wmo",
+      "path": "tour_malvoie/8dru_waycrestmanorexterior01_000.wmo",
+      "flags": 0
+    },
+
+    {
+      "fid": 1632976,
+      "filename": "8dv_ancient_stairs_01.wmo",
+      "path": "aile_est_malvoie/8dru_waycrestmanorexterior01.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 1632977,
+      "filename": "8dv_ancient_stairs_01_000.wmo",
+      "path": "aile_est_malvoie/8dru_waycrestmanorexterior01_000.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 15987718,
+      "filename": "8dv_ancient_stairs_01_100.wmo",
+      "path": "aile_est_malvoie/8dru_waycrestmanorexterior01_001.wmo",
+      "flags": 0
+    },
+
+    {
+      "fid": 1633173,
+      "filename": "8dv_ancient_stairs_02.wmo",
+      "path": "cotes_malvoie/8dru_waycrestmanorexterior01.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 1633174,
+      "filename": "8dv_ancient_stairs_02_000.wmo",
+      "path": "cotes_malvoie/8dru_waycrestmanorexterior01_000.wmo",
+      "flags": 0
+    },
+
+    {
+      "fid": 1597722,
+      "filename": "8dv_ancient_temple_post_01.wmo",
+      "path": "aile_ouest_malvoie/8dru_waycrestmanorexterior01.wmo",
+      "flags": 0
+    },
+    {
+      "fid": 1597723,
+      "filename": "8dv_ancient_temple_post_01_000.wmo",
+      "path": "aile_ouest_malvoie/8dru_waycrestmanorexterior01_000.wmo",
+      "flags": 0
+    },
+
+
+    {
+        "fid": 1595137,
+        "filename": "8dv_ancient_wallpost_05.wmo",
+        "path": "bat_principal_dalaran/dalaran2.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 1595138,
+        "filename": "8dv_ancient_wallpost_05_000.wmo",
+        "path": "bat_principal_dalaran/dalaran2_000.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987719,
+        "filename": "dalaran2_001.wmo",
+        "path": "bat_principal_dalaran/dalaran2_001.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987720,
+        "filename": "dalaran2_002.wmo",
+        "path": "bat_principal_dalaran/dalaran2_002.wmo",
+        "flags": 0
+    },  
+    {
+        "fid": 15987721,
+        "filename": "dalaran2_003.wmo",
+        "path": "bat_principal_dalaran/dalaran2_003.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987722,
+        "filename": "dalaran2_004.wmo",
+        "path": "bat_principal_dalaran/dalaran2_004.wmo",
+        "flags": 0
+    },
+     {
+        "fid": 15987723,
+        "filename": "dalaran2_005.wmo",
+        "path": "bat_principal_dalaran/dalaran2_005.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987724,
+        "filename": "dalaran2_006.wmo",
+        "path": "bat_principal_dalaran/dalaran2_006.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987725,
+        "filename": "dalaran2_007.wmo",
+        "path": "bat_principal_dalaran/dalaran2_007.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987726,
+        "filename": "dalaran2_008.wmo",
+        "path": "bat_principal_dalaran/dalaran2_008.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987727,
+        "filename": "dalaran2_009.wmo",
+        "path": "bat_principal_dalaran/dalaran2_009.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987728,
+        "filename": "dalaran2_010.wmo",
+        "path": "bat_principal_dalaran/dalaran2_010.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987729,
+        "filename": "dalaran2_011.wmo",
+        "path": "bat_principal_dalaran/dalaran2_011.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987730,
+        "filename": "dalaran2_012.wmo",
+        "path": "bat_principal_dalaran/dalaran2_012.wmo",
+        "flags": 0
+    },
+
+
+
+    {
+        "fid": 1595135,
+        "filename": "8dv_ancient_wallpost_04.wmo",
+        "path": "gilneas_prison/gilneas_prisonquarter_entrance.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 1595136,
+        "filename": "8dv_ancient_wallpost_04_000.wmo",
+        "path": "gilneas_prison/gilneas_prisonquarter_entrance_000.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987731,
+        "filename": "gilneas_prisonquarter_entrance_001.wmo",
+        "path": "gilneas_prison/gilneas_prisonquarter_entrance_001.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987732,
+        "filename": "gilneas_prisonquarter_entrance_002.wmo",
+        "path": "gilneas_prison/gilneas_prisonquarter_entrance_002.wmo",
+        "flags": 0
+    },
+
+
+    {
+        "fid": 1601950,
+        "filename": "8dv_ancient_temple_post_03.wmo",
+        "path": "entrance_malvoie/8dru_waycrestmanorexterior01.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 1601951,
+        "filename": "8dv_ancient_temple_post_03_000.wmo",
+        "path": "entrance_malvoie/8dru_waycrestmanorexterior01_000.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987733,
+        "filename": "8dru_waycrestmanorexterior01_001.wmo",
+        "path": "entrance_malvoie/8dru_waycrestmanorexterior01_001.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987734,
+        "filename": "8dru_waycrestmanorexterior01_002.wmo",
+        "path": "entrance_malvoie/8dru_waycrestmanorexterior01_002.wmo",
+        "flags": 0
+    },
+
+
+    {
+        "fid": 1597698,
+        "filename": "8dv_ancient_temple_support_01.wmo",
+        "path": "hellstairs/7an_mysticwalls.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 1597699,
+        "filename": "8dv_ancient_temple_support_01_000.wmo",
+        "path": "hellstairs/7an_mysticwalls_000.wmo",
+        "flags": 0
+    },
+
+
+    {
+        "fid": 1597702,
+        "filename": "8dv_ancient_temple_support_02.wmo",
+        "path": "fort_tiras/8hu_kultiras_proudmoorekeepexterior.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 1597703,
+        "filename": "8dv_ancient_temple_support_02_000.wmo",
+        "path": "fort_tiras/8hu_kultiras_proudmoorekeepexterior_000.wmo",
+        "flags": 0
+    },
+
+    {
+        "fid": 1597706,
+        "filename": "8dv_ancient_temple_support_03.wmo",
+        "path": "gabble_alizes/8hu_kultiras_seawall_crescent.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 1597707,
+        "filename": "8dv_ancient_temple_support_03_000.wmo",
+        "path": "gabble_alizes/8hu_kultiras_seawall_crescent_000.wmo",
+        "flags": 0
+    },
+
+
+    {
+        "fid": 1597710,
+        "filename": "8dv_ancient_temple_support_04.wmo",
+        "path": "stairs_proudmoore/8hu_kultiras_proudmoorekeepexterior.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 1597711,
+        "filename": "8dv_ancient_temple_support_04_000.wmo",
+        "path": "stairs_proudmoore/8hu_kultiras_proudmoorekeepexterior_000.wmo",
+        "flags": 0
+    },
+
+
+    {
+        "fid": 1597714,
+        "filename": "8dv_ancient_temple_support_05.wmo",
+        "path": "tour_proudmoore/8hu_kultiras_proudmoorekeepexterior.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 1597715,
+        "filename": "8dv_ancient_temple_support_05_000.wmo",
+        "path": "tour_proudmoore/8hu_kultiras_proudmoorekeepexterior_000.wmo",
+        "flags": 0
+    },
+
+
+    {
+        "fid": 1597718,
+        "filename": "8dv_ancient_temple_support_06.wmo",
+        "path": "tour_garde_proudmoore/8hu_kultiras_proudmoorekeepexterior.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 1597719,
+        "filename": "8dv_ancient_temple_support_06_000.wmo",
+        "path": "tour_garde_proudmoore/8hu_kultiras_proudmoorekeepexterior_000.wmo",
+        "flags": 0
+    },
+
+
+    {
+        "fid": 1596954,
+        "filename": "8dv_ancient_temple_wall_01.wmo",
+        "path": "banque_alizes/8hu_kultiras_seawall_crescent.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 1596955,
+        "filename": "8dv_ancient_temple_wall_01_000.wmo",
+        "path": "banque_alizes/8hu_kultiras_seawall_crescent_000.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987735,
+        "filename": "8hu_kultiras_seawall_crescent_001.wmo",
+        "path": "banque_alizes/8hu_kultiras_seawall_crescent_001.wmo",
+        "flags": 0
+    },  
+    {
+        "fid": 15987736,
+        "filename": "8hu_kultiras_seawall_crescent_002.wmo",
+        "path": "banque_alizes/8hu_kultiras_seawall_crescent_002.wmo",
+        "flags": 0
+    },
+
+
+    {
+        "fid": 1601956,
+        "filename": "8dv_ancient_temple_wall_02.wmo",
+        "path": "salle_portail_alizes/8hu_kultiras_seawall_crescent.wmo",
+        "flags": 0
+    },  
+    {
+        "fid": 1601957,
+        "filename": "8dv_ancient_temple_wall_02_000.wmo",
+        "path": "salle_portail_alizes/8hu_kultiras_seawall_crescent_000.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987737,
+        "filename": "8hu_kultiras_seawall_crescent_001.wmo",
+        "path": "salle_portail_alizes/8hu_kultiras_seawall_crescent_001.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987738,
+        "filename": "8hu_kultiras_seawall_crescent_002.wmo",
+        "path": "salle_portail_alizes/8hu_kultiras_seawall_crescent_002.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987739,
+        "filename": "8hu_kultiras_seawall_crescent_003.wmo",
+        "path": "salle_portail_alizes/8hu_kultiras_seawall_crescent_003.wmo",
+        "flags": 0
+    },
+
+
+    {
+        "fid": 1596922,
+        "filename": "8dv_ancient_temple_wall_cap_01.wmo",
+        "path": "capitainerie_alizes/8hu_kultiras_seawall_crescent.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 1596923,
+        "filename": "8dv_ancient_temple_wall_cap_01_000.wmo",
+        "path": "capitainerie_alizes/8hu_kultiras_seawall_crescent_000.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987740,
+        "filename": "8hu_kultiras_seawall_crescent_001.wmo",
+        "path": "capitainerie_alizes/8hu_kultiras_seawall_crescent_001.wmo",
+        "flags": 0
+    },
+    {
+        "fid": 15987741,
+        "filename": "8hu_kultiras_seawall_crescent_002.wmo",
+        "path": "capitainerie_alizes/8hu_kultiras_seawall_crescent_002.wmo",
+        "flags": 0
+    }
+  ]
+}

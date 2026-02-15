@@ -1,0 +1,4 @@
+Short Sword -> .ad 301345 ; .ad 301344 ; .ad  182575
+Long Sword -> .ad 182579 ; .ad 175166 ; .ad 3000910
+kriegmesser -> .ad 21492
+Viking swords -> .ad 36517 ; .ad 36526 ; .ad 37039
