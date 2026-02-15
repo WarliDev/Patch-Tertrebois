@@ -508,15 +508,15 @@
             "id": 803655003
         },
         {
-            "file": "helmet/helm_plate_dragonquest_b_01/TEX/4078660_4079331.blp",
+            "file": "helmet/helm_plate_dragonquest_b_01/tex/4078660_4079331.blp",
             "id": 803720
         },
         {
-            "file": "helmet/helm_plate_dragonquest_b_01/TEX/4078660_4079333.blp",
+            "file": "helmet/helm_plate_dragonquest_b_01/tex/4078660_4079333.blp",
             "id": 803741
         },
         {
-            "file": "helmet/helm_plate_dragonquest_b_01/TEX/4078660_4079334.blp",
+            "file": "helmet/helm_plate_dragonquest_b_01/tex/4078660_4079334.blp",
             "id": 803744
         },
         {
@@ -532,27 +532,27 @@
             "id": 803665001
         },
         {
-            "file": "wraist/belt_plate_dragonquest_b_01/TEX/4078699_4079266.blp",
+            "file": "wraist/belt_plate_dragonquest_b_01/tex/4078699_4079266.blp",
             "id": 803663
         },
         {
-            "file": "wraist/belt_plate_dragonquest_b_01/TEX/4078699_4079265_green.blp",
+            "file": "wraist/belt_plate_dragonquest_b_01/tex/4078699_4079265_green.blp",
             "id": 803666
         },
         {
-            "file": "wraist/belt_plate_dragonquest_b_01/TEX/4078699_4079263_red.blp",
+            "file": "wraist/belt_plate_dragonquest_b_01/tex/4078699_4079263_red.blp",
             "id": 803667
         },
         {
-            "file": "wraist/belt_plate_dragonquest_b_01/TEX/4078699_lu_u_4079273_green.blp",
+            "file": "wraist/belt_plate_dragonquest_b_01/tex/4078699_lu_u_4079273_green.blp",
             "id": 803694
         },
         {
-            "file": "wraist/belt_plate_dragonquest_b_01/TEX/4078699_lu_u_4079268_red.blp",
+            "file": "wraist/belt_plate_dragonquest_b_01/tex/4078699_lu_u_4079268_red.blp",
             "id": 803696
         },
         {
-            "file": "wraist/belt_plate_dragonquest_b_01/TEX/4078699_lu_u_4079286.blp",
+            "file": "wraist/belt_plate_dragonquest_b_01/tex/4078699_lu_u_4079286.blp",
             "id": 803692
         },
         {
@@ -588,15 +588,15 @@
             "id": 803659002
         },
         {
-            "file": "shoulders/shoulder_plate_dragonquest_b_01/TEX/4078697_4079315.blp",
+            "file": "shoulders/shoulder_plate_dragonquest_b_01/tex/4078697_4079315.blp",
             "id": 803660
         },
         {
-            "file": "shoulders/shoulder_plate_dragonquest_b_01/TEX/4078697_4079314_green.blp",
+            "file": "shoulders/shoulder_plate_dragonquest_b_01/tex/4078697_4079314_green.blp",
             "id": 803661
         },
         {
-            "file": "shoulders/shoulder_plate_dragonquest_b_01/TEX/4078697_4079312_red.blp",
+            "file": "shoulders/shoulder_plate_dragonquest_b_01/tex/4078697_4079312_red.blp",
             "id": 803662
         },
         {
@@ -904,27 +904,27 @@
             "id": 1338789003
         },
         {
-            "file": "helmet/mail_dragonquest_b_01_helm/TEX/4184558_4419824_silver.blp",
+            "file": "helmet/mail_dragonquest_b_01_helm/tex/4184558_4419824_silver.blp",
             "id": 1339385
         },
         {
-            "file": "helmet/mail_dragonquest_b_01_helm/TEX/4184558_4419825_gold.blp",
+            "file": "helmet/mail_dragonquest_b_01_helm/tex/4184558_4419825_gold.blp",
             "id": 1339386
         },
         {
-            "file": "helmet/mail_dragonquest_b_01_helm/TEX/4184558_4419827_goldsilver.blp",
+            "file": "helmet/mail_dragonquest_b_01_helm/tex/4184558_4419827_goldsilver.blp",
             "id": 1339387
         },
         {
-            "file": "helmet/mail_dragonquest_b_01_helm/TEX/4184558_4419825_gold_2.blp",
+            "file": "helmet/mail_dragonquest_b_01_helm/tex/4184558_4419825_gold_2.blp",
             "id": 1339388
         },
         {
-            "file": "helmet/mail_dragonquest_b_01_helm/TEX/4184558_4419824_silver_2.blp",
+            "file": "helmet/mail_dragonquest_b_01_helm/tex/4184558_4419824_silver_2.blp",
             "id": 1339439
         },
         {
-            "file": "helmet/mail_dragonquest_b_01_helm/TEX/4184558_4419827_goldsilver_2.blp",
+            "file": "helmet/mail_dragonquest_b_01_helm/tex/4184558_4419827_goldsilver_2.blp",
             "id": 1399989
         },
         {
@@ -968,15 +968,15 @@
             "id": 2915372003
         },
         {
-            "file": "shoulders/shoulder_mail_dragonquest_b_01/TEX/4184600_4185285_silver.blp",
+            "file": "shoulders/shoulder_mail_dragonquest_b_01/tex/4184600_4185285_silver.blp",
             "id": 2915214
         },
         {
-            "file": "shoulders/shoulder_mail_dragonquest_b_01/TEX/4184600_4185286_gold.blp",
+            "file": "shoulders/shoulder_mail_dragonquest_b_01/tex/4184600_4185286_gold.blp",
             "id": 2915215
         },
         {
-            "file": "shoulders/shoulder_mail_dragonquest_b_01/TEX/4184600_4185286_goldsilver.blp",
+            "file": "shoulders/shoulder_mail_dragonquest_b_01/tex/4184600_4185286_goldsilver.blp",
             "id": 2915216
         },
         {
@@ -1012,11 +1012,11 @@
             "id": 3736863
         },
         {
-            "file": "ls/sword_2h_newplayer_a_02_LOD01.skin",
+            "file": "ls/sword_2h_newplayer_a_02_lod01.skin",
             "id": 3736866
         },
         {
-            "file": "ls/sword_2h_newplayer_a_02_LOD02.skin",
+            "file": "ls/sword_2h_newplayer_a_02_lod02.skin",
             "id": 3736869
         },
         {
@@ -2337,49 +2337,49 @@
         },
         {
             "id": 1100644,
-            "file": "world/maps/Troll Raid/Troll Raid_lgt.wdt"
+            "file": "world/maps/troll raid/troll raid_lgt.wdt"
         },
         {
             "id": 1002322,
-            "file": "visages/HumanFemaleFaceUpper01_11_HD.blp"
+            "file": "visages/humanfemalefaceupper01_11_hd.blp"
         },
         {
             "id": 1002496,
-            "file": "visages/swap_body/HumanFemaleSkin00_02_HD.blp"
+            "file": "visages/swap_body/humanfemaleskin00_02_hd.blp"
         },
 
 
-        {"file":"shoulder_cape/Left/shoulder_armor_tatteredcape_b_01_l.m2","id":143133},
-        {"file":"shoulder_cape/Left/shoulder_armor_tatteredcape_b_01_l_LOD01.skin","id":6121315},
-        {"file":"shoulder_cape/Left/shoulder_armor_tatteredcape_b_01_l_LOD02.skin","id":6121318},
-        {"file":"shoulder_cape/Left/shoulder_armor_tatteredcape_b_01_l_LOD03.skin","id":6121321},
-        {"file":"shoulder_cape/Left/shoulder_armor_tatteredcape_b_01_l00.skin","id":6121312},
-        {"file":"shoulder_cape/Right/shoulder_armor_tatteredcape_b_01_r.m2","id":143437},
-        {"file":"shoulder_cape/Right/shoulder_armor_tatteredcape_b_01_r_LOD01.skin","id":6121309},
-        {"file":"shoulder_cape/Right/shoulder_armor_tatteredcape_b_01_r_LOD02.skin","id":6121310},
-        {"file":"shoulder_cape/Right/shoulder_armor_tatteredcape_b_01_r_LOD03.skin","id":6121311},
-        {"file":"shoulder_cape/Right/shoulder_armor_tatteredcape_b_01_r00.skin","id":6121308},
-        {"file":"shoulder_cape/Tex/Blue.blp","id":143661},
-        {"file":"shoulder_cape/Tex/Brown.blp","id":143828},
-        {"file":"shoulder_cape/Tex/Green.blp","id":143658},
-        {"file":"shoulder_cape/Tex/LightBlue.blp","id":143662},
-        {"file":"shoulder_cape/Tex/MatteRed.blp","id":143681},
-        {"file":"shoulder_cape/Tex/Orange.blp","id":143825},
-        {"file":"shoulder_cape/Tex/Purple.blp","id":143660},
-        {"file":"shoulder_cape/Tex/Red.blp","id":143674},
-        {"file":"shoulder_cape/Tex/Teal.blp","id":143664},
-        {"file":"shoulder_cape/Tex/White.blp","id":143663},
-        {"file":"shoulder_cape/Tex/Yellow.blp","id":143665},
-        {"file":"shoulder_cape/Tex/Beige.blp","id":144123},
-        {"file":"shoulder_cape/Tex/Black.blp","id":144122},
-        {"file":"shoulder_cape/Tex/Pink.blp","id":143762},
+        {"file":"shoulder_cape/left/shoulder_armor_tatteredcape_b_01_l.m2","id":143133},
+        {"file":"shoulder_cape/left/shoulder_armor_tatteredcape_b_01_l_lod01.skin","id":6121315},
+        {"file":"shoulder_cape/left/shoulder_armor_tatteredcape_b_01_l_lod02.skin","id":6121318},
+        {"file":"shoulder_cape/left/shoulder_armor_tatteredcape_b_01_l_lod03.skin","id":6121321},
+        {"file":"shoulder_cape/left/shoulder_armor_tatteredcape_b_01_l00.skin","id":6121312},
+        {"file":"shoulder_cape/right/shoulder_armor_tatteredcape_b_01_r.m2","id":143437},
+        {"file":"shoulder_cape/right/shoulder_armor_tatteredcape_b_01_r_lod01.skin","id":6121309},
+        {"file":"shoulder_cape/right/shoulder_armor_tatteredcape_b_01_r_lod02.skin","id":6121310},
+        {"file":"shoulder_cape/right/shoulder_armor_tatteredcape_b_01_r_lod03.skin","id":6121311},
+        {"file":"shoulder_cape/right/shoulder_armor_tatteredcape_b_01_r00.skin","id":6121308},
+        {"file":"shoulder_cape/tex/blue.blp","id":143661},
+        {"file":"shoulder_cape/tex/brown.blp","id":143828},
+        {"file":"shoulder_cape/tex/green.blp","id":143658},
+        {"file":"shoulder_cape/tex/lightblue.blp","id":143662},
+        {"file":"shoulder_cape/tex/mattered.blp","id":143681},
+        {"file":"shoulder_cape/tex/orange.blp","id":143825},
+        {"file":"shoulder_cape/tex/purple.blp","id":143660},
+        {"file":"shoulder_cape/tex/red.blp","id":143674},
+        {"file":"shoulder_cape/tex/teal.blp","id":143664},
+        {"file":"shoulder_cape/tex/white.blp","id":143663},
+        {"file":"shoulder_cape/tex/yellow.blp","id":143665},
+        {"file":"shoulder_cape/tex/beige.blp","id":144123},
+        {"file":"shoulder_cape/tex/black.blp","id":144122},
+        {"file":"shoulder_cape/tex/pink.blp","id":143762},
 
 
         {"file":"barnyard/cow/cow2.m2","id":123288},
         {"file":"barnyard/cow/cow200.skin","id":7354171},
-        {"file":"barnyard/cow/cow2_LOD01.skin","id":7354172},
-        {"file":"barnyard/cow/cow2_LOD02.skin","id":7354173},
-        {"file":"barnyard/cow/cow2_LOD03.skin","id":7354174},
+        {"file":"barnyard/cow/cow2_lod01.skin","id":7354172},
+        {"file":"barnyard/cow/cow2_lod02.skin","id":7354173},
+        {"file":"barnyard/cow/cow2_lod03.skin","id":7354174},
         {"file":"barnyard/cow/armorreflect4.blp","id":7354169},
         {"file":"barnyard/cow/7150420_7354170.blp","id":7354170},
         {"file":"barnyard/cow/7324239.blp","id":7324239},
@@ -2394,9 +2394,9 @@
         {"file":"barnyard/cow/cow20101-00.anim","id":7490511},
         {"file":"barnyard/horse/horse4.m2","id":1519794},
         {"file":"barnyard/horse/horse400.skin","id":7339104},
-        {"file":"barnyard/horse/horse4_LOD01.skin","id":7339105},
-        {"file":"barnyard/horse/horse4_LOD02.skin","id":7339106},
-        {"file":"barnyard/horse/horse4_LOD03.skin","id":7339107},
+        {"file":"barnyard/horse/horse4_lod01.skin","id":7339105},
+        {"file":"barnyard/horse/horse4_lod02.skin","id":7339106},
+        {"file":"barnyard/horse/horse4_lod03.skin","id":7339107},
         {"file":"barnyard/horse/horse40061-00.anim","id":7339103},
         {"file":"barnyard/horse/horse40062-00.anim","id":7349483},
         {"file":"barnyard/horse/horse40097-00.anim","id":7349484},
@@ -2406,9 +2406,9 @@
         {"file":"barnyard/horse/horse40101-00.anim","id":7349488},
         {"file":"barnyard/sheep/sheep3.m2","id":1377131},
         {"file":"barnyard/sheep/sheep300.skin","id":7208685},
-        {"file":"barnyard/sheep/sheep3_LOD01.skin","id":7208688},
-        {"file":"barnyard/sheep/sheep3_LOD02.skin","id":7208691},
-        {"file":"barnyard/sheep/sheep3_LOD03.skin","id":7208694},
+        {"file":"barnyard/sheep/sheep3_lod01.skin","id":7208688},
+        {"file":"barnyard/sheep/sheep3_lod02.skin","id":7208691},
+        {"file":"barnyard/sheep/sheep3_lod03.skin","id":7208694},
         {"file":"barnyard/sheep/sheep3white.blp","id":1377616},
         {"file":"barnyard/sheep/sheep3black.blp","id":1377614},
         {"file":"barnyard/sheep/sheep3robot.blp","id":1377615},
@@ -3864,9 +3864,9 @@
 
         {"file":"dragonhawksandwheretofindthem/dragonhawk2.m2","id":123522},
         {"file":"dragonhawksandwheretofindthem/dragonhawk200.skin","id":6152334},
-        {"file":"dragonhawksandwheretofindthem/dragonhawk2_LOD01.skin","id":6152335},
-        {"file":"dragonhawksandwheretofindthem/dragonhawk2_LOD02.skin","id":6152336},
-        {"file":"dragonhawksandwheretofindthem/dragonhawk2_LOD03.skin","id":6152337},
+        {"file":"dragonhawksandwheretofindthem/dragonhawk2_lod01.skin","id":6152335},
+        {"file":"dragonhawksandwheretofindthem/dragonhawk2_lod02.skin","id":6152336},
+        {"file":"dragonhawksandwheretofindthem/dragonhawk2_lod03.skin","id":6152337},
         {"file":"dragonhawksandwheretofindthem/dragonhawk2_orange.blp","id":123524},
         {"file":"dragonhawksandwheretofindthem/dragonhawk2_pink.blp","id":123526},
         {"file":"dragonhawksandwheretofindthem/dragonhawk2_red.blp","id":123528},
@@ -3878,16 +3878,16 @@
         {"file":"dragonhawksandwheretofindthem/armorreflect4.blp","id":6152333},
         {"file":"dragonhawksandwheretofindthem/dragonhawk20061-00.anim","id":6700286},
         {"file":"dragonhawksandwheretofindthem/dragonhawk20060-00.anim","id":6730954},
-        {"file":"dragonhawksandwheretofindthem/Mount/dragonhawk2mount_body_black.blp","id":310726},
-        {"file":"dragonhawksandwheretofindthem/Mount/dragonhawk2mount_armor_black.blp","id":7090838},
-        {"file":"dragonhawksandwheretofindthem/Mount/armorreflect6.blp","id":7112505},
-        {"file":"dragonhawksandwheretofindthem/Mount/dragonhawk2mount.m2","id":234547},
-        {"file":"dragonhawksandwheretofindthem/Mount/dragonhawk2mount00.skin","id":6795744},
-        {"file":"dragonhawksandwheretofindthem/Mount/dragonhawk2mount_LOD01.skin","id":6795748},
-        {"file":"dragonhawksandwheretofindthem/Mount/dragonhawk2mount_LOD02.skin","id":6795750},
-        {"file":"dragonhawksandwheretofindthem/Mount/dragonhawk2mount_LOD03.skin","id":6795753},
-        {"file":"dragonhawksandwheretofindthem/Mount/dragonhawk2mount0061-00.anim","id":6795740},
-        {"file":"dragonhawksandwheretofindthem/Mount/dragonhawk2mount0060-00.anim","id":6795741},
+        {"file":"dragonhawksandwheretofindthem/mount/dragonhawk2mount_body_black.blp","id":310726},
+        {"file":"dragonhawksandwheretofindthem/mount/dragonhawk2mount_armor_black.blp","id":7090838},
+        {"file":"dragonhawksandwheretofindthem/mount/armorreflect6.blp","id":7112505},
+        {"file":"dragonhawksandwheretofindthem/mount/dragonhawk2mount.m2","id":234547},
+        {"file":"dragonhawksandwheretofindthem/mount/dragonhawk2mount00.skin","id":6795744},
+        {"file":"dragonhawksandwheretofindthem/mount/dragonhawk2mount_lod01.skin","id":6795748},
+        {"file":"dragonhawksandwheretofindthem/mount/dragonhawk2mount_lod02.skin","id":6795750},
+        {"file":"dragonhawksandwheretofindthem/mount/dragonhawk2mount_lod03.skin","id":6795753},
+        {"file":"dragonhawksandwheretofindthem/mount/dragonhawk2mount0061-00.anim","id":6795740},
+        {"file":"dragonhawksandwheretofindthem/mount/dragonhawk2mount0060-00.anim","id":6795741},
 
 
 
@@ -3981,9 +3981,9 @@
 
         {"file":"hawkstridercareapreening/hawkstridermount.m2","id":123268},
         {"file":"hawkstridercareapreening/hawkstridermount00.skin","id":7064559},
-        {"file":"hawkstridercareapreening/hawkstridermount_LOD01.skin","id":7064560},
-        {"file":"hawkstridercareapreening/hawkstridermount_LOD02.skin","id":7064561},
-        {"file":"hawkstridercareapreening/hawkstridermount_LOD03.skin","id":7064562},
+        {"file":"hawkstridercareapreening/hawkstridermount_lod01.skin","id":7064560},
+        {"file":"hawkstridercareapreening/hawkstridermount_lod02.skin","id":7064561},
+        {"file":"hawkstridercareapreening/hawkstridermount_lod03.skin","id":7064562},
         {"file":"hawkstridercareapreening/hawkstridermount_armor_red.blp","id":7064556},
         {"file":"hawkstridercareapreening/armorreflect4.blp","id":7064558},
         {"file":"hawkstridercareapreening/hawkstridermount_body_red.blp","id":123267},
@@ -4004,9 +4004,9 @@
         {"file":"hawkstridercareapreening/hawkstridermount0101-00.anim","id":7278153},
         {"file":"hawkstridercareapreening/hawkstrider.m2","id":123275},
         {"file":"hawkstridercareapreening/hawkstrider00.skin","id":6996212},
-        {"file":"hawkstridercareapreening/hawkstrider_LOD01.skin","id":6996213},
-        {"file":"hawkstridercareapreening/hawkstrider_LOD02.skin","id":6996215},
-        {"file":"hawkstridercareapreening/hawkstrider_LOD03.skin","id":6996217},
+        {"file":"hawkstridercareapreening/hawkstrider_lod01.skin","id":6996213},
+        {"file":"hawkstridercareapreening/hawkstrider_lod02.skin","id":6996215},
+        {"file":"hawkstridercareapreening/hawkstrider_lod03.skin","id":6996217},
         {"file":"hawkstridercareapreening/hawkstrider_white.blp","id":123280},
         {"file":"hawkstridercareapreening/hawkstrider_red.blp","id":123274},
         {"file":"hawkstridercareapreening/hawkstrider_black.blp","id":123276},
@@ -4023,9 +4023,9 @@
         {"file":"hawkstridercareapreening/hawkstrider0101-00.anim","id":7278129},
         {"file":"hawkstridercareapreening/babyhawkstrider2.m2","id":122988},
         {"file":"hawkstridercareapreening/babyhawkstrider200.skin","id":6702814},
-        {"file":"hawkstridercareapreening/babyhawkstrider2_LOD01.skin","id":6702817},
-        {"file":"hawkstridercareapreening/babyhawkstrider2_LOD02.skin","id":6702822},
-        {"file":"hawkstridercareapreening/babyhawkstrider2_LOD03.skin","id":6702825},
+        {"file":"hawkstridercareapreening/babyhawkstrider2_lod01.skin","id":6702817},
+        {"file":"hawkstridercareapreening/babyhawkstrider2_lod02.skin","id":6702822},
+        {"file":"hawkstridercareapreening/babyhawkstrider2_lod03.skin","id":6702825},
         {"file":"hawkstridercareapreening/babyhawkstrider2_white.blp","id":4238206},
         {"file":"hawkstridercareapreening/babyhawkstrider2_red.blp","id":122987},
         {"file":"hawkstridercareapreening/babyhawkstrider20061-00.anim","id":7339991},
