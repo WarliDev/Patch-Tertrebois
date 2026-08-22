@@ -4075,11 +4075,11 @@
 
         {"file":"tournoi/Polearm_2H_Lance_A_01_ArgentDawn.blp","id":298622},
 
-        {"file":"robe_raidpriest_b_01outlandgreen_chest_tl_f.blp","id":162491},
-        {"file":"robe_raidpriest_b_01outlandgreen_chest_tu_f.blp","id":165185},
-        {"file":"robe_raidpriest_b_01outlandgreen_robe_ll_f.blp","id":157221},
-        {"file":"robe_raidpriest_b_01outlandgreen_robe_lu_f.blp","id":159908},
-        {"file":"robe_raidpriest_b_01outlandgreen_sleeve_al_u.blp","id":151015},
-        {"file":"robe_raidpriest_b_01outlandgreen_sleeve_au_u.blp","id":152597}
+        {"file":"RVACLOTHES/robe_raidpriest_b_01outlandgreen_chest_tl_f.blp","id":162491},
+        {"file":"RVACLOTHES/robe_raidpriest_b_01outlandgreen_chest_tu_f.blp","id":165185},
+        {"file":"RVACLOTHES/robe_raidpriest_b_01outlandgreen_robe_ll_f.blp","id":157221},
+        {"file":"RVACLOTHES/robe_raidpriest_b_01outlandgreen_robe_lu_f.blp","id":159908},
+        {"file":"RVACLOTHES/robe_raidpriest_b_01outlandgreen_sleeve_al_u.blp","id":151015},
+        {"file":"RVACLOTHES/robe_raidpriest_b_01outlandgreen_sleeve_au_u.blp","id":152597}
     ]
 }
